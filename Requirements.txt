@@ -1,0 +1,11 @@
+This project was created using **Tableau Public 2026.2.0**.
+
+### Download Tableau Public
+
+https://public.tableau.com/app/discover
+
+### Dataset
+
+The Iris dataset is included in the `data` folder.
+
+No additional Python libraries are required to view or interact with the dashboard.
