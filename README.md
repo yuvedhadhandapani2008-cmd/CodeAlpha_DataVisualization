@@ -197,7 +197,7 @@ images/
 
 Watch the demonstration video:
 
-video/dashboard_demo.mp4
+(https://drive.google.com/file/d/19fG7TVhv_N2GeDPVC0CbhH1k-5eEVU-J/view?usp=sharing)
 
 ---
 
